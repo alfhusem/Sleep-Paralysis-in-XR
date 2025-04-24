@@ -1,0 +1,1 @@
+A sleep paralysis simulation in XR for Meta Quest 3. A component in my Master's project in Computer Science titled: "Sleep Paralysis in XR: Simulating Sleep Paralysis Hallucinations in Extended Reality & Streamlining Development Using Generative Artificial Intelligence
